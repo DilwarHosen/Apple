@@ -83,13 +83,16 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", user_id=config.OWNER_ID),
+                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/FakeAlony"
+            ),
             InlineKeyboardButton(
-                text="❰𝘾𝙃𝘼𝙉𝙉𝙀𝙇❱", url=config.SUPPORT_CHANNEL),
+                text="❰𝘾𝙃𝘼𝙉𝙉𝙀𝙇❱", url="https://t.me/AloneXBots"
+            ),
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙋𝙍𝙊𝙈𝙊𝙏𝙄𝙊𝙉 𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀❱", user_id=config.OWNER_ID),
+                text="❰𝙋𝙍𝙊𝙈𝙊𝙏𝙄𝙊𝙉 𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀❱", url="https://t.me/FakeAlony"
+            ),
         ],
         [InlineKeyboardButton(
              text="❰𝘾𝙇𝙊𝙎𝙀❱", callback_data="close")],
