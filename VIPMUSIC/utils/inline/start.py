@@ -28,23 +28,29 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="+ 𝐀ᴅᴅ 𝐌ᴇ 𝐘ᴏᴜʀ 𝐆ʀᴏᴜᴘ +",
+                text="❍ 𝐀ᴅᴅ 𝐌ᴇ 𝐘ᴏᴜʀ 𝐆ʀᴏᴜᴘ ❍",
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="𝐇ᴇʟᴘ", callback_data="settings_back_helper"),
+                text="❍ 𝐘ᴏᴜʀ 𝐇ᴇʟᴘᴇʀ ❍", callback_data="settings_back_helper"),
         ],
         [
              InlineKeyboardButton(
-                text="𝐔ᴘᴅᴀᴛᴇs", url=config.SUPPORT_CHANNEL),
+                text="❍ 𝐎ᴡɴᴇʀ ❍",
+                url=f"https://t.me/FakeAlony",
+            ),
             InlineKeyboardButton(
-                text="𝐎ᴡɴᴇʀ", user_id=config.OWNER_ID),
+                text="❍ 𝐀ʟʟ 𝐁ᴏᴛs ❍",
+                url=f"https://t.me/AloneXBots",
+            )
         ],
         [
             InlineKeyboardButton(
-                text="[❄️] 𝐏ʀᴏᴍᴏᴛɪᴏɴ 𝐀ᴠᴀɪʟᴀʙʟᴇ [❄️]", user_id=config.OWNER_ID),
+                text="❍ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ❍",
+                url=f"https://t.me/FakeAlony",
+            ),
         ],
     ]
     return buttons
