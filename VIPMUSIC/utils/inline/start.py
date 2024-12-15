@@ -44,7 +44,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(
-                text="[❄️] 𝐈ɴᴛʀᴏᴅᴜᴄᴛɪᴏɴ [❄️]", user_id=config.OWNER_ID),
+                text="[❄️] 𝐏ʀᴏᴍᴏᴛɪᴏɴ 𝐀ᴠᴀɪʟᴀʙʟᴇ [❄️]", user_id=config.OWNER_ID),
         ],
     ]
     return buttons
