@@ -223,31 +223,31 @@ async def start_comm(client, message: Message, _):
                 )
     else:
         out = private_panel(_)
-        vip = await message.reply_text(
-            f"**𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 ꨄ︎ {message.from_user.mention}**"
-        )
-        await vip.edit_text(f"**𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 ꨄ︎ {message.from_user.mention}  ❣️**")
+        ##vip = await message.reply_text(
+        ##    f"**𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 ꨄ︎ {message.from_user.mention}**"
+      ##  )
+     ##   await vip.edit_text(f"**𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 ꨄ︎ {message.from_user.mention}  ❣️**")
         
-        await vip.delete()
-        vips = await message.reply_text("**𝐇𝐞𝐲 𝐁𝐚𝐛𝐲 ꨄ 𝐇𝐨𝐰 𝐀𝐫𝐞 𝐘𝐨𝐮⚡.....**")
-        await asyncio.sleep(0.1)
-        await vips.edit_text("𝐁𝐨𝐭")
-        await asyncio.sleep(0.1)
-        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ")
-        await asyncio.sleep(0.1)
-        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ ")
-        await asyncio.sleep(0.1)
-        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐘")
-        await asyncio.sleep(0.1)
-        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲📍.")
-        await asyncio.sleep(0.1)
+     ##   await vip.delete()
+      ##  vips = await message.reply_text("**𝐇𝐞𝐲 𝐁𝐚𝐛𝐲 ꨄ 𝐇𝐨𝐰 𝐀𝐫𝐞 𝐘𝐨𝐮⚡.....**")
+     ##   await asyncio.sleep(0.1)
+      ##  await vips.edit_text("𝐁𝐨𝐭")
+      ##  await asyncio.sleep(0.1)
+       ## await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ")
+      ##  await asyncio.sleep(0.1)
+       ## await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ ")
+    ##    await asyncio.sleep(0.1)
+     ##   await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐘")
+       ## await asyncio.sleep(0.1)
+     ##   await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲📍.")
+      ##  await asyncio.sleep(0.1)
 
         
-        await vips.delete()
+     ##   await vips.delete()
 
-        done = await message.reply_text("❤️‍🔥")
-        await asyncio.sleep(0.1)
-        await done.delete()
+    ##    done = await message.reply_text("❤️‍🔥")
+    ##    await asyncio.sleep(0.1)
+     ##   await done.delete()
         await message.reply_photo(
             photo=config.START_IMG_URL,
             caption=_["start_2"].format(message.from_user.mention, app.mention),
