@@ -86,7 +86,6 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
                 text="❰𝙊𝙒𝙉𝙀𝙍❱", user_id=config.OWNER_ID),
             InlineKeyboardButton(
                 text="❰𝘾𝙃𝘼𝙉𝙉𝙀𝙇❱", url=config.SUPPORT_CHANNEL),
-            ),
         ],
         [
             InlineKeyboardButton(
