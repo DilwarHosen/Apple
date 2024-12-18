@@ -74,7 +74,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6079943111").split())
+    map(int, getenv("OWNER_ID", "7552579717").split())
 )  # Input type must be interger
 
 
@@ -117,11 +117,11 @@ SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/AloneXBots"
 )  # Example:- https://t.me/ll_MOI_ll
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/AlonesHeaven"
+    "SUPPORT_GROUP", "https://t.me/+1iN6Tuz0-atmODI1"
 )  # Example:- https://t.me/ll_MOI_ll
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/AlonesHeaven"
+    "SUPPORT_GROUP", "https://t.me/+1iN6Tuz0-atmODI1"
 )  # Example:- https://t.me/TG_NAME_STYLE
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
