@@ -48,8 +48,8 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(
-                text="❍ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ❍",
-                url=f"https://t.me/FakeAlony",
+                text="❍ 𝗙𝐑𝗜𝐄𝗡𝐃𝗦 𝗭𝐎𝗡𝐄🐝 ❍",
+                url=f"https://t.me/+1iN6Tuz0-atmODI1",
             ),
         ],
     ]
