@@ -83,7 +83,7 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/FakeAlony"
+                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/AloneHuVai"
             ),
             InlineKeyboardButton(
                 text="❰𝘾𝙃𝘼𝙉𝙉𝙀𝙇❱", url="https://t.me/AloneXBots"
@@ -91,7 +91,7 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙋𝙍𝙊𝙈𝙊𝙏𝙄𝙊𝙉 𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀❱", url="https://t.me/FakeAlony"
+                text="❰𝙅𝙊𝙄𝙉 𝙈𝙔 𝘾𝙃𝘼𝙏𝙏𝙄𝙉𝙂 𝙂𝙍𝙊𝙐𝙋❱", url="https://t.me/+1iN6Tuz0-atmODI1"
             ),
         ],
         [InlineKeyboardButton(
@@ -154,7 +154,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/FakeAlony"
+                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/AloneHuVai"
             ),
             InlineKeyboardButton(
                 text="❰𝘾𝙃𝘼𝙉𝙉𝙀𝙇❱", url="https://t.me/AloneXBots"
@@ -162,7 +162,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙋𝙍𝙊𝙈𝙊𝙏𝙄𝙊𝙉 𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀❱", url="https://t.me/FakeAlony"
+                text="❰𝙅𝙊𝙄𝙉 𝙈𝙔 𝘾𝙃𝘼𝙏𝙏𝙄𝙉𝙂 𝙂𝙍𝙊𝙐𝙋❱", url="https://t.me/+1iN6Tuz0-atmODI1"
             ),
         ],
         [InlineKeyboardButton(
@@ -419,7 +419,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/FakeAlony"
+                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/AloneHuVai"
             ),
             InlineKeyboardButton(
                 text="❰𝘾𝙃𝘼𝙉𝙉𝙀𝙇❱", url="https://t.me/AloneXBots"
@@ -427,7 +427,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙋𝙍𝙊𝙈𝙊𝙏𝙄𝙊𝙉 𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀❱", url="https://t.me/FakeAlony"
+                text="❰𝙅𝙊𝙄𝙉 𝙈𝙔 𝘾𝙃𝘼𝙏𝙏𝙄𝙉𝙂 𝙂𝙍𝙊𝙐𝙋❱", url="https://t.me/+1iN6Tuz0-atmODI1"
             ),
         ],
         [InlineKeyboardButton(
@@ -550,7 +550,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/FakeAlony"
+                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/AloneHuVai"
             ),
             InlineKeyboardButton(
                 text="❰𝘾𝙃𝘼𝙉𝙉𝙀𝙇❱", url="https://t.me/AloneXBots"
@@ -558,7 +558,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙋𝙍𝙊𝙈𝙊𝙏𝙄𝙊𝙉 𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀❱", url="https://t.me/FakeAlony"
+                text="❰𝙅𝙊𝙄𝙉 𝙈𝙔 𝘾𝙃𝘼𝙏𝙏𝙄𝙉𝙂 𝙂𝙍𝙊𝙐𝙋❱", url="https://t.me/+1iN6Tuz0-atmODI1"
             ),
         ],
         [InlineKeyboardButton(
@@ -625,7 +625,7 @@ def stream_markup_timer2(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/FakeAlony"
+                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/AloneHuVai"
             ),
             InlineKeyboardButton(
                 text="❰𝘾𝙃𝘼𝙉𝙉𝙀𝙇❱", url="https://t.me/AloneXBots"
@@ -633,7 +633,7 @@ def stream_markup_timer2(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙋𝙍𝙊𝙈𝙊𝙏𝙄𝙊𝙉 𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀❱", url="https://t.me/FakeAlony"
+                text="❰𝙅𝙊𝙄𝙉 𝙈𝙔 𝘾𝙃𝘼𝙏𝙏𝙄𝙉𝙂 𝙂𝙍𝙊𝙐𝙋❱", url="https://t.me/+1iN6Tuz0-atmODI1"
             ),
         ],
         [InlineKeyboardButton(
